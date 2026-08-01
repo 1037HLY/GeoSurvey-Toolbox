@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-files-path name="geosurvey_files" path="." />
+    <cache-path name="geosurvey_cache" path="." />
+</paths>
